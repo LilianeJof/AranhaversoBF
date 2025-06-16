@@ -1,6 +1,19 @@
 body {
 
     background-color: black;
+<<<<<<< HEAD
+    color: red    
+    
+=======
     color: red; font: 1em sans-serif;
     font-family: "Cabin", sans-serif;
+>>>>>>> 7194aae88b4bf96ccdc891f81cd1126188538589
+}
+
+h1{
+
+    font-size: 40 px;
+    
+    fonte-size: 20px;
+
 }
