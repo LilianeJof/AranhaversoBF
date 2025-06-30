@@ -27,4 +27,8 @@ p{
 
 section {
     background-color: rgb(63, 153, 123);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
 }
